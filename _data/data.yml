@@ -92,7 +92,6 @@ experience:
   order: 2
   title: Experience
   description: |
-    + 
 
   items:
     - company: First Company
@@ -148,7 +147,7 @@ skill:
     + Utilized Linux skills on deployment servers to make sure the servers are up and running.
     + Hands on experience with Devops tools like Git, Maven, Ansible, Docker, k8s, Elastic Stack, etc.
     + A good knowledge in setting up Baselines, Branching, Merging and Automation Processes using Shell Scripting.
-    +	Expertise in Installation, Configuration, Administration and Maintenance of CI tools Jenkins.
+    +	Expertise in Installations, Configuration, Administration and Maintenance of CI-CD tools like Jenkins and Azure-DevOps.
     + Also good knowledge in Configuration management tools like Ansible and Terraform.
 
   # items:
@@ -218,9 +217,6 @@ education:
   order: 4
   title: Education
   description: |
-    The education section in a resume is where you provide information about your academic background, including any degrees. In this section, you should include the name and location of the institution where you received your degree, the name of the degree or program you completed, and the date of graduation. If you have earned multiple degrees, list them in reverse chronological order, with the most recent degree first.
-
-    In addition to basic information about your education, you may also want to include any academic honors or awards you received, relevant coursework or projects, and your GPA if it is 3.0 or above. If you have recently graduated and do not have much work experience yet, highlighting your education and academic achievements can help demonstrate your potential to succeed in the workplace.
 
   items:
     - institution: RTMN University
@@ -357,9 +353,6 @@ language:
   order: 5
   title: Languages
   description: |
-    The languages section in a resume typically includes information about your proficiency in different languages. This section can be particularly important if you are applying for a job that requires fluency or proficiency in a specific language.
-
-    It's important to be honest about your language proficiency in your resume. If you overstate your abilities, it could lead to problems during the interview process or on the job. If you have taken language courses or earned language certifications, you can also include this information in the languages section of your resume.
 
   items:
     - idiom: Hindi
@@ -372,11 +365,6 @@ interest:
   order: 6
   title: Interests
   description: |
-    The interests section in a resume typically refers to a section where you can mention your hobbies, interests, and activities outside of work or school. This section can give potential employers a better idea of your personality, your values, and your interests beyond your professional experience.
-
-    Including an interest section in your resume can be helpful if your interests are relevant to the job you are applying for, such as if you are applying for a job in a creative field and your hobbies include painting or writing. It can also be useful if you are applying for a job where teamwork or social skills are important, and you can mention interests that demonstrate those qualities.
-
-    However, it is important to be selective when including an interest section in your resume, and to choose interests that are appropriate and professional. Avoid including controversial or potentially offensive interests, and focus on interests that showcase your positive qualities and strengths.
 
   items:
     - item: Watching movies
