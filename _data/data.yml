@@ -107,7 +107,7 @@ experience:
         + Having experience in CI-CD pipelines formarly known as Build and Release activities.
         +	Experience on working with Docker containers infrastructure and Continuous Integration for building & deploying Docker containers.
         +	Responsible for orchestrating CI-CD pipelines by responding to Git triggers, human input, and dependency chains and environment setup.
-        + Also having a good knowledge in deploying applications of any technology using CI-CD Engines.
+        + Deploying applications on Java, .NET, python, nodejs using CI-CD Engines.
 
 project:
   show: false
@@ -148,7 +148,9 @@ skill:
     + Hands on experience with Devops tools like Git, Maven, Ansible, Docker, k8s, Elastic Stack, etc.
     + A good knowledge in setting up Baselines, Branching, Merging and Automation Processes using Shell Scripting.
     +	Expertise in Installations, Configuration, Administration and Maintenance of CI-CD tools like Jenkins and Azure-DevOps.
+    + Also ensuring continuous-integration and continuous-delivery of the recently pushed code to SCM is going smoothly.
     + Also good knowledge in Configuration management tools like Ansible and Terraform.
+    + Given that the situation, I prepare Manifests for k8s clusters, Dockerfile for Docker, playbooks for Ansible and Terraform scripts for Terraform
 
   # items:
   #   - name: Skill A
@@ -171,6 +173,9 @@ skill:
   #     level: 3
 
   groups:
+    - name:	Project Management Tool
+      item:
+        - Azure-DevOps
     - name:	Cloud Platforms
       item:
         - AWS
@@ -191,7 +196,7 @@ skill:
         - Gradle
     - name:	Build Tools (.NET)
       item:
-        - msbuild
+        - MSBuild
         - dotnet
     - name:	Build Tools (nodejs)
       item:
@@ -225,7 +230,6 @@ education:
       major: Information Technology
       degree: Bachelor
       description: |
-        Additional information for this institution.
         + Completed Graduation i.e., Bachelors in Information Technology from R.T.M. Nagpur University in 2015.
 
     - institution: Chhattisgarh Board of Secondary Education
@@ -234,7 +238,6 @@ education:
       major: Science
       degree: High School
       description: |
-        Additional information for this institution.
         + Completed High school from CGBSE in 2009
 
 
