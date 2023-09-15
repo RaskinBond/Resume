@@ -188,7 +188,7 @@ skill:
         - Windows 10,11
     - name:	Applications
       item:
-        - Git
+        - GitHub
         - CI-CD Engines (Jenkins, Azure-DevOps)
     - name:	Build Tools (Java)
       item:
@@ -230,7 +230,7 @@ education:
       major: Information Technology
       degree: Bachelor
       description: |
-        + Completed Graduation i.e., Bachelors in Information Technology from R.T.M. Nagpur University in 2015.
+        + Completed Bachelor of Engineering in Information Technology from R.T.M. Nagpur University in 2015.
 
     - institution: Chhattisgarh Board of Secondary Education
       link:
