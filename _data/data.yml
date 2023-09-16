@@ -148,7 +148,6 @@ skill:
     + Hands on experience with Devops tools like Git, Maven, Ansible, Docker, k8s, Elastic Stack, etc.
     + A good knowledge in setting up Baselines, Branching, Merging and Automation Processes using Shell Scripting.
     +	Expertise in Installations, Configuration, Administration and Maintenance of CI-CD tools like Jenkins and Azure-DevOps.
-    + Also ensuring continuous-integration and continuous-delivery of the recently pushed code to SCM is going smoothly.
     + Also good knowledge in Configuration management tools like Ansible and Terraform.
     + Given that the situation, I prepare Manifests for k8s clusters, Dockerfile for Docker, playbooks for Ansible and Terraform scripts for Terraform
 
