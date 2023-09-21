@@ -196,7 +196,7 @@ skill:
     - name:	Build Tool (.NET)
       item:
         - MSBuild
-        - dotnet
+        - dotnet build
     - name:	Build Tool (nodejs)
       item:
         - npm
