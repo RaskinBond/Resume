@@ -189,17 +189,19 @@ skill:
       item:
         - GitHub
         - CI-CD Engines (Jenkins, Azure-DevOps)
-    - name:	Build Tools (Java)
+    - name:	Build Tool (Java)
       item:
         - Maven
         - Gradle
-    - name:	Build Tools (.NET)
+    - name:	Build Tool (.NET)
       item:
         - MSBuild
         - dotnet
-    - name:	Build Tools (nodejs)
+    - name:	Build Tool (nodejs)
       item:
         - npm
+        - yarn
+        - gulp
     - name:	Virtualization Tools
       item:
         - Docker
