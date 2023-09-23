@@ -102,7 +102,7 @@ experience:
       location: Pune
       description: |
         Key responsibilities and achievements in the company.
-        + Having 3+ years of Experience as a DevOps Engineer for deploying Applications based on various technologies.
+        + Having 3.4+ years of Experience as a DevOps Engineer for deploying Applications based on various technologies.
         + Providing 24x7 support for development environment servers in all the regions.
         + Having experience in CI-CD pipelines formarly known as Build and Release activities.
         +	Experience on working with Docker containers infrastructure and Continuous Integration for building & deploying Docker containers.
@@ -212,8 +212,7 @@ skill:
     - name: Automation Tools
       item:
         - Ansible
-        - AWS CLI
-        - Azure CLI
+        - AWS,Azure CLI
         - PowerShell scripts
         - Shellscripts
         - Terraform
@@ -376,7 +375,7 @@ interest:
 
   items:
     - item: Watching movies
-      link: '#'
+      link:
     - item: Playing online games
       link:
 
