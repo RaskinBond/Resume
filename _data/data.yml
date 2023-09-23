@@ -181,9 +181,9 @@ skill:
         - Azure
     - name: Operating Systems
       item:
-        - Ubuntu 18.04,20.04,22.04
-        - RedHat 8,9
         - CentOS 7,8
+        - RedHat 8,9
+        - Ubuntu 18.04,20.04,22.04
         - Windows 10,11
     - name:	Applications
       item:
@@ -191,29 +191,33 @@ skill:
         - CI-CD Engines (Jenkins, Azure-DevOps)
     - name:	Build Tool (Java)
       item:
-        - Maven
-        - Gradle
+      - Gradle
+      - Maven
+        
     - name:	Build Tool (.NET)
       item:
-        - MSBuild
         - dotnet build
+        - MSBuild
+
     - name:	Build Tool (nodejs)
       item:
         - npm
-        - yarn
         - gulp
+        - yarn
+        
     - name:	Virtualization Tools
       item:
         - Docker
         - kubernetes
     - name: Automation Tools
       item:
-        - Shellscripts
         - Ansible
-        - Terraform
         - AWS CLI
         - Azure CLI
         - PowerShell scripts
+        - Shellscripts
+        - Terraform
+        
     - name: Monitoring Tool
       item:
         - Elastic Stack
